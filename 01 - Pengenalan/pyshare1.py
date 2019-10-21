@@ -2,6 +2,7 @@
 x=10
 y=11.5
 nama="doscom"
+
 # output
 print(x)
 print(y)
@@ -10,20 +11,27 @@ print("aku cinta ",nama)
 print("aku cinta {}".format(nama))
 print("aku cinta "+str(nama))
 print("aku cinta ", str(nama))
+
 # # operator penjumlahan
 print("{0}+{1}={2}".format(x,y,x+y))
+
 # operator perkalian
 print("hasil kali dari x dan y adalah {}".format(x*y))
+
 # hitung luas segita
 alas=4
 tinggi=5
 luas=(alas*tinggi)/2
 print("luas segitiga dengan alas {0} dan tinggi {1} adalah {2}".format(alas,tinggi,luas))
+
 # hitung luas lingkaran
 phi=3.14
 r=7
 rumus=phi*r*r
+# atau bisa juga
+rumus2 = phi * r ** 2
 print("luas lingkaran = {}".format(rumus))
+print("luas lingkaran2 = {}".format(rumus2))
 
 # input-output
 a=input("masukkan nilai a= ")     
