@@ -1,4 +1,4 @@
-# Materi Python Share 2019
+# Materi Python Share
 ### Ayo kontribusi dari apa yang sudah kamu pelajari.
 
 Repo ini merupakan kumpulan materi dari acara sharing pemrograman bahasa python DOSCOM
